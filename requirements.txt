@@ -1,2 +1,6 @@
 streamlit
 graphviz
+pandas>=2.0.3
+requests>=2.31.0
+streamlit-confetti>=0.0.4
+streamlit-lottie>=0.0.6
