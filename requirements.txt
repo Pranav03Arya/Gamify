@@ -1,0 +1,6 @@
+streamlit
+graphviz
+pandas
+requests
+streamlit-confetti
+streamlit-lottie
